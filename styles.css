@@ -5,6 +5,10 @@ h1 {
   font-family: arial;
 }
 .info ul li a {
-  color: white;
+  color: green;
   font-size: 18px;
+}
+.info {
+  box-shadow: 0px 0px 10px black;
+  text-shadow: 0px 0px 10px gray;
 }
