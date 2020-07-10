@@ -1,0 +1,10 @@
+body {
+  background: lightblue;
+}
+h1 {
+  font-family: arial;
+}
+.info ul li a {
+  color: white;
+  font-size: 18px;
+}
