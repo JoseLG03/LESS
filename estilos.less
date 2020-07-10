@@ -32,3 +32,12 @@ h1{
 .info{
     .sombras(10px);
 }
+
+.colorTexto(@value) when (@value= true){
+    color: black;
+}
+
+h1{
+    color: blue;
+    .colorTexto(false);
+}
